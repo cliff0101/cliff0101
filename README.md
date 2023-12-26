@@ -7,6 +7,13 @@
 [![BLOG](https://github-readme-stats.vercel.app/api?username=cliff0101&theme=github_dark)](https://github.com/al4xs)
 [![BLOG](https://github-readme-stats.vercel.app/api/top-langs/?username=cliff0101&layout=compact&langs_count=7&theme=github_dark&include_all_commits=true)](https://github.com/cliff0101)
 
+
+#### Sistema Operacional:
+
+
+![Debian package](https://img.shields.io/badge/Debian-1793D1?style=for-the-badge&logo=white)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+
 </div>
 
 
