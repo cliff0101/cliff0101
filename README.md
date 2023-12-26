@@ -1,3 +1,18 @@
+
+
+
+
+## Estatísticas
+
+
+
+</div>
+
+[![BLOG](https://github-readme-stats.vercel.app/api?username=cliff0101&theme=github_dark)](https://github.com/al4xs)
+[![BLOG](https://github-readme-stats.vercel.app/api/top-langs/?username=cliff0101&layout=compact&langs_count=7&theme=github_dark&include_all_commits=true)](https://github.com/cliff0101)
+
+</div>
+
 ### Eu sou o cliff0101
 
 <div style="display: inline_block"><br/>
@@ -10,16 +25,6 @@
 <img src="https://i.pinimg.com/originals/27/cf/5c/27cf5c3e78ba56a3846a45a90d4deaa0.gif" weigth=500 align="right")>
 </div>
 <br\>
-
-
-
-## Estatísticas
-</div>
-
-[![BLOG](https://github-readme-stats.vercel.app/api?username=cliff0101&theme=github_dark)](https://github.com/al4xs)
-[![BLOG](https://github-readme-stats.vercel.app/api/top-langs/?username=cliff0101&layout=compact&langs_count=7&theme=github_dark&include_all_commits=true)](https://github.com/cliff0101)
-
-</div>
 
 
  
