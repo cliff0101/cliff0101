@@ -1,4 +1,4 @@
-### Oi Leonardo! (s4rin0n)
+### Oi Leonardo! (s4ri0n)
 
 ## Estatísticas
 
